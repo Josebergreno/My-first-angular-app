@@ -1,0 +1,9 @@
+.h1 {
+  color: rgb(0, 52, 52);
+  transition: 0.3s;
+  display: flex;
+  justify-content: center;
+}
+.h1:hover {
+  transform: scale(1.05);
+}
